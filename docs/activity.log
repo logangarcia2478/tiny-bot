@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-16T17:37:08Z
-Entry: docs: add architecture diagram and sequence notes to README
-Sequence: 29/91
+Last updated: 2026-05-18T16:32:32Z
+Entry: fix: resolve null pointer exception in stream parser
+Sequence: 30/91
